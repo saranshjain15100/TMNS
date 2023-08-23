@@ -1,10 +1,16 @@
-import './App.css';
-import SamplingTM from './Components/SamplingTM';
+import Dashboard from "./Components/Dashboard";
+// import SamplingNS from "./Components/SamplingNS";
+import "./Components/SamplingNS.css";
+// import SamplingTM from "./Components/SamplingTM";
+import "./Components/SamplingTM.css";
+import "./Components/Dashboard.css";
 
 function App() {
   return (
     <div>
-        <SamplingTM/>
+      {/* <SamplingTM /> */}
+      {/* <SamplingNS/> */}
+      <Dashboard/>
     </div>
     // <Router>
     //   <div className="App">
