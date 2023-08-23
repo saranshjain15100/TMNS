@@ -1,0 +1,91 @@
+/* top right bottom left */
+
+.r1c1 {
+    padding: 0px 150px 0px 50px;
+  }
+  .r2c1 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r1c2 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r2c2 {
+    padding: 0px 50px 0px 60px;
+  }
+  .r1c3 {
+    padding: 0px 50px 0px 50px;
+    text-align: left;
+  }
+  .r2c3 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r3c1 {
+    padding: 50px 50px 0px 50px;
+    text-align: left;
+  }
+  .r4c1 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r5c1 {
+    padding: 50px 50px 0px 50px;
+    text-align: left;
+  }
+  .r5c2 {
+    padding: 50px 50px 0px 50px;
+    text-align: left;
+  }
+  .r5c3 {
+    padding: 50px 50px 0px 50px;
+    text-align: left;
+  }
+  .r6c1 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r6c2 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r6c3 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r7c1 {
+    padding: 50px 50px 0px 50px;
+    text-align: left;
+  }
+  .r8c1 {
+    padding: 0px 50px 0px 50px;
+  }
+  .r8c2 {
+    padding: 0px 50px 0px 0px;
+  }
+  .page {
+    margin: 75px;
+    border: 1px solid;
+    padding: 10px;
+  }
+  
+  @media (max-width: 969px) {
+    .page {
+      margin: 75px;
+      border: 1px solid;
+      padding: 10px;
+      width: 800px;
+    }
+  }
+  
+  #btn {
+    margin-left: 80%;
+    background-color: #eac748;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 8px;
+  }
+  .button {
+    border-radius: 5px;
+  }
+  .PercentageOfSamples {
+    padding: 2px 3px;
+  }
+  input[type="number"] {
+    width: 60px;
+  }
+  
